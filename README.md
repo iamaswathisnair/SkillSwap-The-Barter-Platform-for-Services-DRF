@@ -1,28 +1,11 @@
-# SkillSwap-The-Barter-Platform-for-Services-DRF
-⚡ A real-world backend platform where users exchange services instead of money. For example: You teach me Python, I help you build your portfolio site.
+🚀 Theme:
+Every company signs NDAs with employees. But what if employees leak confidential info (code, documents, strategies) anonymously on forums, GitHub, or dark web?
+ZeroLeak is a backend system for companies to:
 
-🧠 Why It’s Unique?
+Register NDAs and sensitive assets
 
-It’s not a marketplace like Fiverr or Upwork (no money involved).
+Monitor/report suspicious leaks
 
-It’s pure service exchange. 
+Flag employees for NDA breaches
 
-Real-life barter system reimagined.
-
-💡 Real-World Problem It Solves
-
-People have skills but no money. Many students, freelancers, or professionals want help without paying — so they can exchange services (e.g., logo design for resume writing).
-
-🎈The main highlights are :
-
-Auth + Permissions
-
-Offer matching logic
-
-Task tracking & feedback system
-
-Custom DRF logic
-
-Advanced filtering + model relationships
-
-
+Build case reports for legal action
