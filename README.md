@@ -9,6 +9,10 @@ It’s pure service exchange.
 
 Real-life barter system reimagined.
 
+💡 Real-World Problem It Solves
+
+People have skills but no money. Many students, freelancers, or professionals want help without paying — so they can exchange services (e.g., logo design for resume writing).
+
 🎈The main highlights are :
 
 Auth + Permissions
