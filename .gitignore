@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.env
+
+# Django stuff:
+db.sqlite3
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Migrations
+**/migrations/
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Secret files
+.env
+.DS_Store
+
+# Static and media
+staticfiles/
+media/
