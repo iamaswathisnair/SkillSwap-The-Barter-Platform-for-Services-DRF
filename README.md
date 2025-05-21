@@ -9,7 +9,7 @@ It’s pure service exchange.
 
 Real-life barter system reimagined.
 
-The main highlights are :
+🎈The main highlights are :
 
 Auth + Permissions
 
