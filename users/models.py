@@ -73,3 +73,4 @@ class NDAAcceptance(models.Model):
     nda = models.ForeignKey(NDA, on_delete=models.CASCADE)
     employee = models.ForeignKey(CustomUser, on_delete=models.CASCADE)
     accepted_at = models.DateTimeField(auto_now_add=True)
+    
