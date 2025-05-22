@@ -26,4 +26,8 @@ class CustomUser(AbstractUser):
 # legal_team	Confirms if something is really a breach, closes legal cases
 # investigator	Investigates reports, flags suspicious employees
 
-# So, you need to identify them by role.
+# Role	Permissions
+# 🧑‍💼 CompanyOwner	Upload NDAs, add employees
+# 👨‍⚖️ LegalTeam	View reports, resolve cases
+# 🕵️ Investigator	Flag employees, link leaks
+# 👨‍💻 Employee	View assigned NDAs
